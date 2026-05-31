@@ -1,7 +1,5 @@
 # FunctionVisualizer
 
-# Function Visualizer
-
 Software desenvolvido em C utilizando a biblioteca Raylib para visualização gráfica de funções matemáticas.
 
 ## Objetivo
