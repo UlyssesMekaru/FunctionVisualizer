@@ -27,6 +27,8 @@ Compile o programa utilizando GCC e Raylib.
 ## Exemplo
 
 <img width="798" height="593" alt="example2" src="https://github.com/user-attachments/assets/0d312c09-9c9c-4c39-b563-fea396e0b468" />
+
+
 <img width="794" height="595" alt="example1" src="https://github.com/user-attachments/assets/514ffa1c-7392-41e2-a5e2-edfe4494c3a6" />
 
 ## Autor
