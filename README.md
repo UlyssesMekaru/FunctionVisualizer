@@ -12,7 +12,6 @@ O objetivo deste projeto é representar graficamente funções afins e quadráti
 - Plotagem de funções quadráticas
 - Exibição do plano cartesiano
 - Exibição da equação na tela
-- Interface gráfica utilizando Raylib
 
 ## Tecnologias utilizadas
 
@@ -23,6 +22,12 @@ O objetivo deste projeto é representar graficamente funções afins e quadráti
 ## Como executar
 
 Compile o programa utilizando GCC e Raylib.
+Ajuste os caminhos de include e biblioteca de acordo com a instalação da Raylib em seu sistema.
+
+## Dependências 
+
+Esse projeto utiliza a biblioteca Raylib: 
+https://www.raylib.com/
 
 ## Exemplo
 
